@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_android",
+  "sourceSha": "b7582d09518ce261a97ce8daaaf52a636b4eb60f",
+  "templateId": "android",
+  "managedFiles": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "723987f78c126b981287ede0918fb55d87756ac2d34e11f720c3f11b221a56ae"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "147ebe40b47db5c90421c1409a1b46cd84c600f2d40063b852c215ca4c341cc5"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "c72f810eec64b86a39f1a5f66002ad33f138c17ea23d96b65576e6d7f57a3aa0"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2510ed6712aef515f12f87413611e0cad7087d46db21e2641330071d40c1389d"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "sha256": "b3feb6aa834463a0c54725676b90275606da2997f9e7953297350bff53c10757"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "sha256": "3113685876df764ecabac045a73a1e63670c432b68f2b753d1bdb8e793a49a37"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/MainActivity.kt",
+      "sha256": "084a29dbeaa74df3331d7c0f524d71f251a08f38ded9c49f219a058d12db3fd4"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/auth/AuthConfig.kt",
+      "sha256": "55dd624d7e649943b003450e74f595227c4edc552adc20c65258a3d2ce582b04"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/auth/AuthRepository.kt",
+      "sha256": "fe0930ce0ce836aab7d0b29948dd760c1610eecaa40032c0a4e586ca2316d43c"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/auth/AuthViewModel.kt",
+      "sha256": "4c47e130abf5fa416631265e4485a9f53dffb901100a2849dd3f33df3faf1075"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/auth/SessionStorage.kt",
+      "sha256": "e3a3211bfacbb0b770161c72b153dc5b29727668fdcf4b0a6e83047bd2604a87"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/auth/TimeFormatting.kt",
+      "sha256": "188a4ad5fb902cc464d894fd20b0c871daf55a1dc8a759247be23e9f1a339313"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/auth/UserSession.kt",
+      "sha256": "f20e5d3903115a62083d83cd720cc18c917469a7fc9c2198ef26289a472bce4a"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/ui/Components.kt",
+      "sha256": "772b01597101ae07133d5b6833aca31bf7f825a9a8f340fde035747847445da5"
+    },
+    {
+      "path": "app/src/main/java/com/tuurio/authsample/ui/theme/Theme.kt",
+      "sha256": "fd0684dabce2b8dde7c69c5f07fbe4fd6f770b4d2b01d07274d73ead5b18a5be"
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "sha256": "3902d2c6d93b62944f9ad74e4d0db33cc1d6e8638440858c317f77cebc946d97"
+    },
+    {
+      "path": "build.gradle.kts",
+      "sha256": "2dbd1a45622ebd994ec0f86620aeb958dffd47a048901c47e5877408b2d3e8f0"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "sha256": "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "sha256": "cdab1ffb439219b1db125e3c99a86cf2424f8762b9b3faa404ed061e3635ecde"
+    },
+    {
+      "path": "gradle.properties",
+      "sha256": "5ff4359bb22b9436ec644207f9240f4e47b9a733fe03ba402c77944a05283574"
+    },
+    {
+      "path": "gradlew",
+      "sha256": "b187b4c52e749f5760afdd6fadc31b2a98ad35fb249bf0dff03b72650f320409"
+    },
+    {
+      "path": "gradlew.bat",
+      "sha256": "94102713eb8fb22d032397924c0f38ab2da783ba60d07054339f1190a0c4e2cd"
+    },
+    {
+      "path": "settings.gradle.kts",
+      "sha256": "a601e75732a5c7aaf22d65b06d853cbc684b0deafd8da5b7124fb516122ff8be"
+    }
+  ]
+}
