@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_android",
-  "sourceSha": "9563f082095c5c42d183566b37ffcd81abc64006",
+  "sourceSha": "4230326da150f8a40dd45ecfa20bf3f556743d0e",
   "templateId": "android",
   "managedFiles": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "path": "app/src/main/java/com/tuurio/authsample/auth/AuthRepository.kt",
-      "sha256": "fe0930ce0ce836aab7d0b29948dd760c1610eecaa40032c0a4e586ca2316d43c"
+      "sha256": "6953e0739b9282fc12a2ce79c1df5223de2d0c1b25739520db68f54a99c89ce3"
     },
     {
       "path": "app/src/main/java/com/tuurio/authsample/auth/AuthViewModel.kt",
