@@ -2,10 +2,18 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_android",
-  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
-  "packageSha256": "bb47bbb555b580d45adfadc7bc31465c31b0523d78a083aaed223283c78b707e",
+  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
+  "packageSha256": "a28474884805231973f3e60f687fa04c6640df0821c1c681577be478d4456988",
   "templateId": "android",
   "managedFiles": [
+    {
+      "path": ".github/social-preview.png",
+      "sha256": "d7f03c98ade6546d55672a2e8069168d982fbf095facc28b08c5f067543c1725"
+    },
+    {
+      "path": ".github/social-preview.svg",
+      "sha256": "56ed202be9cd0b0c01a4ac5e883eb2c8458caf9bbc77b0842477c2721100c676"
+    },
     {
       "path": ".github/workflows/verify.yml",
       "sha256": "723987f78c126b981287ede0918fb55d87756ac2d34e11f720c3f11b221a56ae"
@@ -24,7 +32,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "2510ed6712aef515f12f87413611e0cad7087d46db21e2641330071d40c1389d"
+      "sha256": "6c54c3e97e093d593174593239f44222f63f6bbc2a1560a8f5ef619a9e422494"
     },
     {
       "path": "app/build.gradle.kts",

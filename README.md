@@ -4,6 +4,8 @@ Android Jetpack Compose authentication starter for Tuurio ID using AppAuth, Auth
 
 [![Verify template](https://github.com/Tuurio/android-oidc-auth-starter/actions/workflows/verify.yml/badge.svg)](https://github.com/Tuurio/android-oidc-auth-starter/actions/workflows/verify.yml)
 
+![Android OIDC Auth Starter social preview](.github/social-preview.png)
+
 > Generated from [`Tuurio/auth_samples/auth_samples_android`](https://github.com/Tuurio/auth_samples/tree/main/auth_samples_android). Submit implementation fixes upstream so they are not replaced by the next synchronized release.
 
 ## What you get
