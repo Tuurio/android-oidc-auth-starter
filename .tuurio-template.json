@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_android",
-  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
-  "packageSha256": "18a2c82ac2efabac6e35e84c5e93ac477fec5017be170002b5238742d576e34d",
+  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
+  "packageSha256": "bb47bbb555b580d45adfadc7bc31465c31b0523d78a083aaed223283c78b707e",
   "templateId": "android",
   "managedFiles": [
     {
@@ -84,7 +84,7 @@
     },
     {
       "path": "gradle/wrapper/gradle-wrapper.properties",
-      "sha256": "cdab1ffb439219b1db125e3c99a86cf2424f8762b9b3faa404ed061e3635ecde"
+      "sha256": "3b6b8df392b92f86332d907707f3d952a32c8d6e1fedabafe2b5ec3d933a78c4"
     },
     {
       "path": "gradle.properties",
